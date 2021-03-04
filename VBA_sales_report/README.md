@@ -7,4 +7,6 @@ is the main file along with required data files for the project
 3.Automate repetitive work </br>
 4.Generating Pivot report </br>
 5.Segregating data based on region </br>
-6.Hide important tabs and with use of password secure access to RAW data </br>
+6.Hide important tabs and with use of password secure access to RAW data </br></br>
+
+Note: To access raw data use 'test' as a password for Admin
